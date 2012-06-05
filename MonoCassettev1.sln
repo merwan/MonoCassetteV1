@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoCassettev1", "MonoCassettev1\MonoCassettev1.csproj", "{551463C8-2752-4031-B658-993DEB16ACC8}"
 EndProject
 Global
